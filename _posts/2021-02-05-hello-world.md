@@ -4,7 +4,7 @@ title: hello world
 date: 2021-02-05
 ---
 
-## finally
+**finally.**
 
 i've been wanting to start a blog for ages, but none of the platforms/tools i've used have been *just* right. call me blogilocks.
 
