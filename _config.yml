@@ -85,3 +85,13 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+
+# Defaults
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      comments: true
