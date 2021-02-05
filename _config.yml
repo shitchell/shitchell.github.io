@@ -11,6 +11,12 @@ description: sysadmin, (web|soft)dev, 1337 h4x0r, sunset addict, hippie, motorcy
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars.githubusercontent.com/u/621412
 
+# Site title
+title: shitchell blog
+
+# Favicon
+logo: http://cdn.shitchell.com/img/shitchell_cookie_round.png
+
 #
 # Flags below are optional
 #
